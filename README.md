@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend web development 
 - 💞️ I’m looking to collaborate on ranjanpaul.jrm@gmail.com 
 - 📫 How to reach me ranjanpaul.jrm@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am aslo a artist. I can make cool front end websites..
 
 <!---
