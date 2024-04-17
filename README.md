@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend web development 
 - 💞️ I’m looking to collaborate on ranjanpaul.jrm@gmail.com 
-- 📫 How to reach me ranjna.paul.jrm@gmail.com
+- 📫 How to reach me ranjanpaul.jrm@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am aslo a artist. I can make cool front end websites..
 
